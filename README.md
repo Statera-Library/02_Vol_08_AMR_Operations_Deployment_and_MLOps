@@ -1,3 +1,10 @@
+<!-- PAI-SG-LINKS:BEGIN -->
+## Project Links
+
+- [Project Portal](https://statera-library.github.io/#repo-02_vol_08_amr_operations_deployment_and_mlops)
+- [Statera Library Portal](https://statera-library.github.io/)
+<!-- PAI-SG-LINKS:END -->
+
 # Statera Working Group — Physical AI Knowledge Initiative
 
 
